@@ -17,7 +17,7 @@ pip install catboost
 ## Authors
 
 * **Jose Nandez** - *Initial work* - [jnandez](https://github.com/JNandez)
-* **Erika Munoz** - *debugger* - [khaled](https://github.com/kelshamouty)
+* **Erika Munoz** - *debugger* - [emunozto](https://github.com/emunozto)
 
 ## License
 
