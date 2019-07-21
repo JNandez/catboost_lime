@@ -8,11 +8,19 @@ You will need Jupyter Notebooks, `lime` package and `catboost` and `Python 3+`
 
 ### Installing
 
-You can install `lime` and `catboost` as follows
+You can install `lime` and `catboost` as follows if you already have installed `pandas`, `numpy` and `matploblib`:
 ```
 pip install lime
 pip install catboost
 ```
+
+Otherwise, you can also use
+
+```
+pip install -r requirements.txt
+```
+
+
 
 ## Authors
 
